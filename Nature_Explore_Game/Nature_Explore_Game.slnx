@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Nature_Explore_Game.vcxproj" Id="d693b7cd-ca3d-4fcc-bbcd-4ef242f11f94" />
+</Solution>
