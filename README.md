@@ -84,7 +84,7 @@ This project follows a modular architecture for maintainability:
 
 ## 📸 Screenshots
 
-| Day Scene | Night Scene |
+| Day Scene | Sky View |
 | :---: | :---: |
 |<img width="1918" height="987" alt="Screenshot_3" src="https://github.com/user-attachments/assets/d3d10f4c-8058-4184-bd01-2cf392610b4a" /> |<img width="1918" height="990" alt="Screenshot_2" src="https://github.com/user-attachments/assets/1f7996a8-ba10-4619-b633-ca0a0e153543" />|
 
